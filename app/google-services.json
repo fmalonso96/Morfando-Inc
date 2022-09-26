@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722524343746",
+    "project_id": "morfando-inc",
+    "storage_bucket": "morfando-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722524343746:android:71fec92058eb46321dda5b",
+        "android_client_info": {
+          "package_name": "com.example.morfando_inc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722524343746-osstli5jdahgvl61f4t9876im262rvlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.morfando_inc",
+            "certificate_hash": "64d9d8492b22bae43f0b3486ce6507cd2cc55b97"
+          }
+        },
+        {
+          "client_id": "722524343746-dk55suutuir2k214u0tuc9ebd99ekaur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArK_yso8P1O_LjoAAPQs8ozL9EXP34CNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722524343746-dk55suutuir2k214u0tuc9ebd99ekaur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
